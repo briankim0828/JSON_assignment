@@ -1,0 +1,37 @@
+body
+{
+  background-color: #a31c1c;
+  font-family: "Lustria";
+}
+
+h1
+{
+  font-size: 50px;
+  padding-top: 30px;
+  text-align: center;
+}
+
+#contentGrid {
+  display: grid;
+  font-size: 20px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+}
+
+
+.footerImage {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.contentItem {
+  text-align: center;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  color: black;
+  border: 5px solid Black;
+
+}
