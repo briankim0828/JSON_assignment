@@ -35,7 +35,15 @@ let jsonDatabase = [
     "usedColor" : "#e0caca",
     "director" : "Alfonso Cauron",
     "cast" : ["Clive Owen", "Julianne Moore", "Michael Caine", "Chiwetel Ejiofor"],
+  },
+  {
+    "title" : "Her",
+    "picture" : "https://img.moviepostershop.com/her-movie-poster-2013-1020768994.jpg",
+    "usedColor" : "#07080a",
+    "director" : "Spike Jonze",
+    "cast" : ["Joaguin Phoenix", "Scarlett Johansson", "Rooney Mara", "Amy Adams"],
   }
+
 ]
 
 for (var i = 0; i < jsonDatabase.length; i++) {
