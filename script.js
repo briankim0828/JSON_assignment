@@ -39,7 +39,7 @@ let jsonDatabase = [
   {
     "title" : "Her",
     "picture" : "https://img.moviepostershop.com/her-movie-poster-2013-1020768994.jpg",
-    "usedColor" : "#07080a",
+    "usedColor" : "#6983b8",
     "director" : "Spike Jonze",
     "cast" : ["Joaguin Phoenix", "Scarlett Johansson", "Rooney Mara", "Amy Adams"],
   }
